@@ -7,7 +7,7 @@ dbt_training_dw:
       user: admin
       password: admin
       port: 5432
-      dbname: postgres
+      dbname: dbt_training
       schema: public
       threads: 1
       keepalives_idle: 0
